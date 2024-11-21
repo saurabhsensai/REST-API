@@ -1,0 +1,15 @@
+We are designing a Rest API - JSON
+
+GET /user - Return all users 
+
+GET /user/1 - Return user with ID 1
+GET /user/2 - Return user with ID 2
+
+
+POST /user - Create a New user
+
+PATCH /user/1 - Edit the user with ID 1
+
+DELETE /user/1 - Delete the user with id 1 
+ 
+
