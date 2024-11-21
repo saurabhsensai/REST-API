@@ -7998,5 +7998,13 @@
         "email": "darmatidgerr@xrea.com",
         "gender": "Male",
         "job_title": "Compensation Analyst"
+    },
+    {
+        "id": "1001",
+        "first_name": "Saurabh",
+        "last_name": "Nale",
+        "email": "saurabhnale9@gmail.com",
+        "gender": "Male",
+        "job_title": "SDE"
     }
 ]
